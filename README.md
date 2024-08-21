@@ -29,7 +29,7 @@ Any changes made to the calendar from other components should return the updated
 ### 👉🏽 Task Description
 ### Requirements: 
 1. **Framework & Tools**: (Don't use other tools or frameworks)
-   - **Next.js**: Use the App Router without the src folder structure.
+   - **Next.js**: Use the App Router without the src folder structure. (Typescript)
    - **Redux**: Central state management.
    - **React Big Calendar**: For calendar functionality. Ensure the inclusion of drag-and-drop features (reference [drag-and-drop example](https://codesandbox.io/p/sandbox/react-big-calendar-drag-and-drop-events-between-months-upekt)).
    - **Tailwind CSS**: Ensure seamless dark mode support using [ShadCN’s dark mode setup](https://ui.shadcn.com/docs/dark-mode/next).
